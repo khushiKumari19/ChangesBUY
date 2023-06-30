@@ -1,0 +1,58 @@
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: aqua; */
+    height: 500px;
+    /* align-content: center; */
+    margin-top: 20px;
+}
+
+.mainTwo {
+    display: flex;
+    flex-direction: column;
+    /* background-color: rgb(165, 102, 102); */
+    width: 700px;
+    height: 300px;
+    /* align-items: center; */
+    /* justify-content: space-around; */
+}
+
+.fl {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /* background-color: brown; */
+    justify-content: space-evenly;
+    width: 700px;
+    margin-bottom: 20px;
+}
+
+.email {
+    width: 490px;
+    margin-bottom: 20px;
+}
+
+.passwd {
+    width: 490px;
+    margin-bottom: 30px;
+}
+
+.emailondiv {
+    /* width: 490px; */
+    margin-bottom: 20px;
+}
+
+.passwdondiv {
+    /* width: 490px; */
+    margin-bottom: 30px;
+}
+
+.ep {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn {
+    margin-right: 390px;
+}

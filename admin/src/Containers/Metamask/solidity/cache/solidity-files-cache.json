@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "G:\\ASHER FYP-2\\FYP (10)\\szabfinal-master\\admin\\src\\Containers\\Metamask\\solidity\\contracts\\ERC20Token.sol": {
+      "lastModificationDate": 1687782553653,
+      "contentHash": "d25b063bdbfbeab2da8869b1242fa698",
+      "sourceName": "src/Containers/Metamask/solidity/contracts/ERC20Token.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "ERC20Token"
+      ]
+    }
+  }
+}

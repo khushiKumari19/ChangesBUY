@@ -1,0 +1,21 @@
+.mainOf {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    /* background-color: aqua; */
+    height: 250px;
+    margin-top: 110px;
+}
+
+.em {
+    margin-bottom: 20px;
+    width: 490px;
+}
+
+.ps {
+    margin-bottom: 20px;
+    width: 490px;
+}
+
+.btn {}

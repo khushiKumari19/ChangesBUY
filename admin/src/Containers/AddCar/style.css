@@ -1,0 +1,13 @@
+.mainContainer {
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    align-items: center;
+}
+
+.textContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    /* background-color: rgb(48, 80, 68); */
+}

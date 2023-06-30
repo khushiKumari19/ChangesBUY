@@ -1,0 +1,22 @@
+.containerInCartPage {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-around;
+    /* max-width: 1260px; */
+    /* margin: 15px auto; */
+    /* justify-content: space-between; */
+}
+
+.cartLeft {
+    width: 70%;
+}
+
+.cartRight {
+    width: 30%;
+}
+
+
+/* .priceDetailsCSS {
+    margin-top: 50px;
+} */
